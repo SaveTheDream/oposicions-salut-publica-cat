@@ -119,7 +119,7 @@ Preguntes detectades sobre:
 - Programa Classe sense fum — Tema 32
 - Factor contribuent brot TIA — Tema 35
 - Vacuna hexavalent (malalties) — Tema 31
-- Policia sanitària mortüoria (Decret 297/1997) — Tema 46
+- Policia sanitària mortuòria (Decret 297/1997) — Tema 46
 - Residus sanitaris (Decret 27/1999, emmagatzematge) — Tema 24
 - Malalties transmeses aliments (factors) — Tema 17
 - Laboratoris control oficial (Decret 43/2012) — Tema 44
@@ -345,17 +345,81 @@ Dels testos reals, s'extreu que les preguntes més freqüents i difícils exigei
 4. **Dades epidemiològiques de Catalunya**: informes vigents de l'ASPCAT, estadístiques actualitzades
 5. **Aplicació pràctica en el camp**: decisió davant un brot, una alerta, una inspecció
 
-## Temes amb major freqüència de preguntes (tots els processos)
+---
 
-| Tema | Freqüència relativa | Comentari |
-|------|--------------------|-|
-| Investigació de brots TIA (Tema 13) | ★★★★★ | Present en TOTS els supòsits pràctics |
-| Epidemiologia bàsica: mesures (Tema 2) | ★★★★★ | RR, RA, prevalença, incidència: sempre present |
-| Vigilància epidemiològica (Tema 6) | ★★★★ | Decret 203/2015, MDO, SNMC |
-| Control oficial aliments (Tema 16) | ★★★★ | Reglament 625/2017, SIVAL, RASFF |
-| Vacunació i calendari (Tema 31) | ★★★★ | Novetats, vacunes per grup d'edat |
-| Aigues de consum (Tema 21) | ★★★★ | RD 3/2023, paràmetres, incidències |
-| Programes salut catalans (Temes 27-36) | ★★★★ | Salut i Escola, cribratge neonatal, PReME |
-| Normativa medicaments/cosmètics (Temes 48-50) | ★★★ | Publicitat, autorització, productes sanitaris |
-| ITS i VIH (Tema 37) | ★★★ | Dades epidemiològiques actuals Catalunya |
-| Tuberculosi (Tema 39) | ★★★ | TDO, estudi contactes, IGRA vs tuberculina |
+## Freqüència per temes: Test de Coneixements (TC)
+
+> Comptatge basat en el nombre de preguntes detectades sobre cada tema als 4 processos analitzats (846, 619, 631, 819). Un valor més alt indica que el tema ha aparegut més vegades i cal prioritzar-lo més en l'estudi.
+
+| Tema | Nom del tema | Processos on apareix | Nº preguntes detectades | Prioritat |
+|------|-------------|---------------------|------------------------|-----------|
+| 1 | Determinants salut, models, prevenció | 846, 619, 631, 819 | 8 | 🔴 Molt alta |
+| 27 | Programes cribratge i salut infantil | 846, 619, 631, 819 | 8 | 🔴 Molt alta |
+| 2 | Mesures epidemiològiques (RR, RA, prevalença, incidència) | 846, 619, 631, 819 | 7 | 🔴 Molt alta |
+| 6 | Vigilància epidemiològica (MDO, SNMC, SIVIC, PIDIRAC) | 846, 619, 631, 819 | 7 | 🔴 Molt alta |
+| 13 | Investigació de brots epidèmics | 846, 619, 631, 819 | 7 | 🔴 Molt alta |
+| 29 | Envelliment saludable i activitat física | 846, 619, 631, 819 | 7 | 🔴 Molt alta |
+| 8 | Legislació sanitària catalana (Llei 18/2009, Plans de salut) | 846, 631, 819 | 6 | 🟠 Alta |
+| 9 | Estructura i serveis de salut pública | 846, 619, 631, 819 | 6 | 🟠 Alta |
+| 12 | Seguretat alimentària: anàlisi del risc, RASFF, Reg. 178/2002 | 846, 619, 631, 819 | 6 | 🟠 Alta |
+| 37 | ITS i VIH | 846, 619, 631, 819 | 6 | 🟠 Alta |
+| 5 | Malalties transmissibles: conceptes bàsics | 846, 619, 631 | 5 | 🟠 Alta |
+| 11 | Avaluació de programes i serveis de salut | 846, 619, 631, 819 | 5 | 🟠 Alta |
+| 21 | Aigues de consum (RD 3/2023) | 846, 619, 819 | 5 | 🟠 Alta |
+| 25 | Substàncies químiques (biocides, REACH, CLP) | 846, 619, 819 | 5 | 🟠 Alta |
+| 31 | Vacunació i calendari sistemàtic | 846, 619, 631, 819 | 5 | 🟠 Alta |
+| 16 | Control oficial aliments (Reg. 625/2017) | 846, 619, 819 | 4 | 🟡 Mitjana-alta |
+| 18 | Perills alimentaris químics i biològics | 846, 619, 819 | 4 | 🟡 Mitjana-alta |
+| 34 | Malaltia meningocòccica | 846, 619, 631, 819 | 4 | 🟡 Mitjana-alta |
+| 36 | Salut bucodental i Salut i Escola | 846, 619, 631 | 4 | 🟡 Mitjana-alta |
+| 44 | Laboratoris salut ambiental i alimentària | 846, 619, 631, 819 | 4 | 🟡 Mitjana-alta |
+| 48 | Medicaments: autorització i farmacovigilància | 846, 619, 631, 819 | 4 | 🟡 Mitjana-alta |
+| 50 | Productes sanitaris i cosmètics | 846, 619, 819 | 4 | 🟡 Mitjana-alta |
+| 3 | Tipus d'estudis epidemiològics | 619, 631, 819 | 3 | 🟡 Mitjana |
+| 4 | Estudis experimentals i cohorts | 846, 631 | 3 | 🟡 Mitjana |
+| 10 | Promoció de la salut | 846, 619, 819 | 4 | 🟡 Mitjana-alta |
+| 15 | Metodologia de la recerca i evidència científica | 846, 619, 631, 819 | 4 | 🟡 Mitjana-alta |
+| 17 | Control higienicosanitari dels aliments (APPCC) | 846, 619 | 4 | 🟡 Mitjana-alta |
+| 30 | Salut laboral | 846, 619, 631, 819 | 4 | 🟡 Mitjana-alta |
+| 33 | Salut mental i addiccions | 846, 631, 819 | 3 | 🟡 Mitjana |
+| 35 | Brots de transmissió alimentària | 846, 619, 819 | 3 | 🟡 Mitjana |
+| 39 | Tuberculosi | 619, 631, 819 | 3 | 🟡 Mitjana |
+| 41 | Malalties cardiovasculars | 846, 631, 819 | 3 | 🟡 Mitjana |
+| 42 | Càncer | 846, 631, 819 | 3 | 🟡 Mitjana |
+| 43 | Registres alimentaris (RSIPAC, RGSEAA, SIVAL) | 846, 619, 819 | 3 | 🟡 Mitjana |
+| 14 | Additius alimentaris | 846, 819 | 2 | 🟢 Baixa-mitjana |
+| 24 | Residus sanitaris | 846, 819 | 2 | 🟢 Baixa-mitjana |
+| 26 | Salut ambiental (contaminació, plagues) | 619, 631 | 2 | 🟢 Baixa-mitjana |
+| 32 | Malalties cròniques | 846, 619 | 2 | 🟢 Baixa-mitjana |
+| 38 | Legionel·losi | 846, 819 | 2 | 🟢 Baixa-mitjana |
+| 7 | LOSC i model sanitari català | 846 | 1 | 🟢 Baixa |
+| 19 | Etiquetatge nutricional | 846 | 1 | 🟢 Baixa |
+| 28 | Programes salut infantil (POICAT) | 846 | 1 | 🟢 Baixa |
+| 45 | Activitats de risc sanitari (tatuatges, pírcings) | 846 | 1 | 🟢 Baixa |
+| 46 | Policia sanitària mortuòria | 846 | 1 | 🟢 Baixa |
+| 47 | Xarxes europees de referència | 846 | 1 | 🟢 Baixa |
+| 49 | Publicitat de productes | 846 | 1 | 🟢 Baixa |
+
+---
+
+## Freqüència per temes: Supòsit Pràctic (SP)
+
+> Comptatge basat en els temes coberts a les situacions dels 4 processos analitzats (846, 619, 631, 819). El SP és molt més concentrat: pràcticament sempre apareix un brot TIA i el nucli epidemiològic-alimentari.
+
+| Tema | Nom del tema | Processos on apareix | Nº situacions detectades | Prioritat |
+|------|-------------|---------------------|--------------------------|-----------|
+| 13 | Investigació de brots (metodologia) | 846, 619, 631, 819 | 4 | 🔴 Imprescindible |
+| 17 | Control higienicosanitari aliments / APPCC | 846, 619, 631, 819 | 4 | 🔴 Imprescindible |
+| 35 | Agents causals brots TIA (microbiologia) | 846, 619, 631, 819 | 4 | 🔴 Imprescindible |
+| 2 | Mesures epidemiològiques (taxes atac, RR, RAe) | 846, 619, 631, 819 | 4 | 🔴 Imprescindible |
+| 5 | Malalties transmissibles (legionel·la, tuberculosi) | 846, 619 | 2 | 🟠 Alta |
+| 21 | Aigues de consum (incidències, mesures) | 619 | 1 | 🟡 Mitjana |
+| 27 | Programes salut ASPCAT (cribratge, infants) | 846 | 1 | 🟡 Mitjana |
+| 31 | Vacunació sistemàtica | 819 | 1 | 🟡 Mitjana |
+| 36 | Salut i Escola, salut bucodental | 846 | 1 | 🟡 Mitjana |
+| 38 | Legionel·losi (inspecció, RD 487/2022) | 846 | 1 | 🟡 Mitjana |
+| 39 | Tuberculosi (TDO, estudi contactes, IGRA) | 619 | 1 | 🟡 Mitjana |
+| 10 | Promoció de la salut en context escolar | 846 | 1 | 🟢 Baixa |
+| 12 | Gestió d'alertes alimentàries (SCIRI/RASFF) | 846 | 1 | 🟢 Baixa |
+| 14 | Additius alimentaris (gestió alerta) | 846 | 1 | 🟢 Baixa |
+| 9 | Empresa Promotora de Salut (EPS) | 619 | 1 | 🟢 Baixa |
