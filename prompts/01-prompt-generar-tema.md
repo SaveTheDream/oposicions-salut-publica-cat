@@ -1,7 +1,7 @@
 # Prompt: Generar Temari Desenvolupat d'un Tema
 
 ## Ús
-Usa aquest prompt per demanar a la IA que desenvolupi en profunditat un tema del temari oficial, sempre a partir de fonts oficials de la Generalitat de Catalunya.
+Usa aquest prompt per demanar a la IA que desenvolupi en profunditat un tema del temari oficial, sempre a partir de fonts oficials de la Generalitat de Catalunya, incloent-hi els documents, informes i novetats publicades més recentment.
 
 ## Com usar-lo
 1. Inicia la sessió carregant `context/00-context-opositor.md`
@@ -62,9 +62,32 @@ Requisits del desenvolupament:
    - [Nom complet del document]. [Organisme]. [Any]. [URL si està disponible]
    ```
 
-5. **Paraules clau** al final: llista de 10-15 termes tècnics fonamentals del tema.
+5. **🆕 Novetats i publicacions recents** (secció obligatòria):
+   Aquesta secció és CLAU per a l'oposició, ja que moltes preguntes es basen en publicacions recents.
+   Inclou tots els elements disponibles dels darrers 3-5 anys relacionats amb el tema:
 
-6. **Possible pregunta de test** (1 exemple): una pregunta d'opció múltiple (4 opcions) representativa del tema, amb resposta correcta indicada i breu justificació. Prioritza preguntes sobre normativa o programes específics de Catalunya.
+   a) **Informes i estudis recents**: informes epidemiològics, enquestes de salut, estudis de prevalença o qualsevol publicació tècnica de l'ASPCAT o el Departament de Salut rellevant per al tema.
+
+   b) **Guies i protocols actualitzats**: indica si hi ha versions noves de protocols o guies oficials, i assenyala els canvis principals respecte a versions anteriors.
+
+   c) **Infografies i materials divulgatius**: si l'ASPCAT o el Departament de Salut han publicat infografies, fullets o materials visuals relacionats amb el tema, cita'ls i resumeix el seu contingut clau.
+
+   d) **Novetats normatives**: nous decrets, ordres o instruccions publicades al DOGC en els darrers anys que afectin el tema.
+
+   e) **Campanyes i programes nous**: noves iniciatives, campanyes de salut pública o programes posats en marxa recentment pel Govern relacionats amb el tema.
+
+   Format per a cada element:
+   > 🆕 *[Tipus: Informe / Guia / Infografia / Normativa / Campanya]*
+   > **[Títol del document o iniciativa]**
+   > [Organisme]. [Any de publicació].
+   > Resum en 2-4 línies del contingut i per què és rellevant per a l'oposició.
+   > URL: [si disponible]
+
+   ⚠️ Si no tens informació actualitzada sobre novetats recents per a aquest tema, indica-ho explícitament i suggereix on buscar-les (p. ex., secció de "Publicacions" de salutpublica.gencat.cat o la web del Departament de Salut).
+
+6. **Paraules clau** al final: llista de 10-15 termes tècnics fonamentals del tema.
+
+7. **Possible pregunta de test** (1 exemple): una pregunta d'opció múltiple (4 opcions) representativa del tema, amb resposta correcta indicada i breu justificació. Prioritza preguntes sobre normativa o programes específics de Catalunya, i sempre que sigui possible basada en una novetat o publicació recent de les identificades a la secció anterior.
 
 Format: Markdown estructurat amb titulars ##, ###, llistes i taules.
 Llengua: Català.
@@ -84,8 +107,18 @@ Exemple: `temari/tema-02-epidemiologia-mesures.md`
 ## Recordatori de fonts principals
 
 | Organisme | URL | Tipus de contingut |
-|-----------|-----|--------------------|
+|-----------|-----|---------------------|
 | ASPCAT | https://salutpublica.gencat.cat | Protocols, guies, informes, BEC, XVEC |
 | Departament de Salut | https://salut.gencat.cat | Pla de Salut, normativa DOGC, carteres |
 | DOGC | https://dogc.gencat.cat | Lleis, decrets i ordres vigents |
 | Canalsalut | https://canalsalut.gencat.cat | Programes i recomanacions oficials |
+
+## 🆕 Fonts recomanades per a novetats
+
+| Recurs | URL | Tipus de contingut recent |
+|--------|-----|---------------------------|
+| Publicacions ASPCAT | https://salutpublica.gencat.cat/ca/el_departament/publicacions/ | Informes, guies, estudis, infografies |
+| Novetats Departament de Salut | https://salut.gencat.cat/ca/el_departament/noticies/ | Notícies i comunicats oficials |
+| BEC (Butlletí Epidemiològic de Catalunya) | https://salutpublica.gencat.cat/ca/vigilancia_salut_publica/bec/ | Dades epidemiològiques actualitzades |
+| Canal Salut (notícies) | https://canalsalut.gencat.cat/ca/salut-a-z/ | Novetats per àrea temàtica |
+| DOGC (cerques recents) | https://dogc.gencat.cat | Normativa publicada recentment |
