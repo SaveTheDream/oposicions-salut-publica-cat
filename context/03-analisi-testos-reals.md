@@ -11,10 +11,16 @@ Aquest fitxer documenta les característiques estructurals i de contingut dels t
 
 ## Procedència dels testos
 
-| Fitxer | Tipus | Convocatoria | Data | Codi procés |
-|--------|-------|-------------|------|--------------|
-| `TC_846-2.pdf` | Test de coneixements (part específica) | 833 | 6 d'abril de 2025 | 846 |
-| `SP_846.pdf` | Supòsit pràctic, tipus test | 833 | 6 d'abril de 2025 | 846 |
+| Fitxer | Tipus | Convocatoria | Data | Codi procés | Accés |
+|--------|-------|-------------|------|--------------|-------|
+| `TC_846-2.pdf` | Test de coneixements (part específica) | 833 | 6 d'abril de 2025 | 846 | Lliure accés |
+| `SP_846.pdf` | Supòsit pràctic, tipus test | 833 | 6 d'abril de 2025 | 846 | Lliure accés |
+| `2023_619_Test coneixements.pdf` | Test de coneixements | — | 8 de juliol de 2023 | 619 | Lliure accés |
+| `2023_619_Supòsit pràctic.pdf` | Supòsit pràctic, tipus test | — | 8 de juliol de 2023 | 619 | Lliure accés |
+| `631_Diplomat_TC.pdf` | Test de coneixements | — | 8 de juliol de 2023 | 631 | Lliure accés (Cos diplomatura) |
+| `631_Diplomat_SP.pdf` | Supòsit pràctic, tipus test | — | 8 de juliol de 2023 | 631 | Lliure accés (Cos diplomatura) |
+| `819_TC.pdf` | Test de coneixements | — | 25 de maig de 2024 | 819 | Promoció interna especial |
+| `819_SP.pdf` | Supòsit pràctic | — | 25 de maig de 2024 | 819 | Promoció interna especial |
 
 ---
 
@@ -76,7 +82,7 @@ Aquest fitxer documenta les característiques estructurals i de contingut dels t
 
 ---
 
-## Temes trets en el process 846 (per no repetir les mateixes preguntes)
+## Temes trets en el procés 846 (per no repetir les mateixes preguntes)
 
 ### TC (Test de Coneixements) — 50 preguntes + 5 reserva
 Preguntes detectades sobre:
@@ -141,6 +147,194 @@ Situacions cobertes:
 
 ---
 
+## Temes trets en el procés 619 (per no repetir les mateixes preguntes)
+
+> Codi procés 619 — Cos de titulació superior, lliure accés — 8 de juliol de 2023
+
+### TC (Test de Coneixements) — 50 preguntes + 5 reserva
+Preguntes detectades sobre:
+- Estudis ecològics (unitat d'anàlisi: comunitat/població) — Tema 3
+- Xarxa vigilància epidemiològica (Decret 203/2015) — Tema 6
+- Mesura de prevalença (definició i exemple) — Tema 2
+- Directrius GRADE (qualitat evidència) — Tema 15
+- Risc relatiu (interpretació) — Tema 2
+- Activitat física recomanada infants/adolescents (Dept. Salut) — Tema 29
+- Programa Salut i Escola (rol infermeria, amenorrea) — Tema 36
+- Prevenció riscos laborals (Llei 31/1995) — Tema 30
+- R0 (nombre bàsic de reproducció) — Tema 5
+- Tractament directament observat tuberculosi (TDO) a Catalunya — Tema 39
+- Calendari vacunacions Catalunya 2022 (herpes zòster) — Tema 31
+- Gènere i envelliment saludable a Catalunya — Tema 29
+- SIRIPQ (Sistema d'intercanvi ràpid informació productes químics) — Tema 25
+- Programa detecció precoç hipoacúsia (Decret 4/2015) — Tema 27
+- Guia "Petits canvis per menjar millor" — Tema 27
+- Prevenció primària (definició) — Tema 1
+- Freqüència visites al dentista (prevenció càries) — Tema 36
+- Validesa temporal autorització medicament — Tema 48
+- Fabricació productes cosmètics (tràmit inicial) — Tema 50
+- Laboratoris salut ambiental i alimentària (definicions) — Tema 44
+- Reglament (UE) 625/2017 (mètodes control oficial) — Tema 16
+- Eficàcia vs. efectivitat vs. eficiència (medicaments) — Tema 11
+- Determinants socials de la salut (definició) — Tema 1
+- RASFF (any creació, confidencialitat) — Tema 12
+- Prevenció lesions no intencionades gent gran — Tema 29
+- Protocol seguiment embaràs Catalunya (cribratge cromosòmic) — Tema 27
+- Calendari vacunacions Catalunya 2022 (vacunes embaràs) — Tema 31
+- Dia Mundial de la Sida — Tema 37
+- APPCC: límit crític (definició) — Tema 17
+- Mètode anticonceptiu més eficaç contra ITS — Tema 37
+- Comunicació inici activitat alimentària (RSIPAC) — Tema 43
+- Malalties cròniques (característiques) — Tema 32
+- Transmissió vertical adquirida (calostre) — Tema 5
+- Carta d'Ottawa: prerequisits per a la salut — Tema 10
+- Desinfecció aigua de consum (clor: concentracions, pH, terbolesa) — Tema 21
+- RD 577/2013 (farmacovigilància medicaments) — Tema 48
+- Menús testimoni (conservació, temperatura, empresa responsable) — Tema 17
+- Etapes investigació brot epidèmic — Tema 13
+- Principi de precaució (Reglament 178/2002, art.) — Tema 12
+- Control integrat de plagues — Tema 26
+- Productes sanitaris classe III (marcatge CE, avaluació) — Tema 50
+- Malalties de notificació microbiològica (SNMC) — Tema 6
+- Protecció de la salut vs. promoció (distinció d'intervencions) — Tema 9
+- SIVAL (Sistema de vigilància sanitària aliments Catalunya) — Tema 44
+- Perills alimentaris: anisakis, zearalenona, sulfits, acrilamida — Tema 18
+- Aigua de consum: captacions superficials, dipòsits, temps permanència — Tema 21
+- Reglament CLP (1272/2008): perills, frases H, FDS — Tema 25
+- Malaltia meningocòccica (agent, diplococ, període incubació) — Tema 34
+- Brots transmissió alimentària Catalunya (tendència, agents causals) — Tema 35
+- Investigació TIA (passos habituals) — Tema 13
+
+### SP (Supòsit Pràctic) — 10 preguntes + 2 reserva
+> Nota: el procés 619 té un supòsit pràctic amb un únic fil conductor que abasta tres situacions diferenciades (TIA empresa, incidència d'aigüa a Riudor, cas tuberculosi al CRAE)
+
+Situacions cobertes:
+- **Situació 1** (TIA empresa menjador laboral, juliol): investigació brot, inspecció cuina, Empresa Promotora de Salut (EPS) — Temes 13, 17, 35
+- **Situació 2** (Incidència aigüa Riudor: hidrocarburs al pou): mesures correctores, notificació ASPCAT, RD 3/2003 — Tema 21
+- **Situació 3** (Cas tuberculosi pulmonar bacil·lífera, CRAE): estudi contactes, TDO, prova tuberculina vs. IGRA en vacunats BCG, prevalença tabac per categoria professional — Temes 5, 39
+
+---
+
+## Temes trets en el procés 631 (per no repetir les mateixes preguntes)
+
+> Codi procés 631 — **Cos de diplomatura** (nivell inferior al titulació superior), lliure accés — 8 de juliol de 2023
+
+> ⚠️ **Nota important**: El procés 631 correspon al cos de diplomatura, no al de titulació superior. Les preguntes són de nivell lleugerament inferior, però els temes estan molt solapats. S'inclouen aquí com a referència de temes tractats i per evitar repeticions si es generen preguntes similars.
+
+### TC (Test de Coneixements) — 50 preguntes + 5 reserva
+Preguntes detectades sobre:
+- Determinants socials de la salut (model Dahlgreen-Whitehead) — Tema 1
+- Salutogènesi i actius de salut — Tema 1
+- Estudi de cohorts (definició) — Tema 4
+- Prevalença (definició i distinció d'incidència) — Tema 2
+- Risc atribuïble (càlcul per MCV en fumadors) — Tema 2
+- Estudis ecològics (característiques, limitacions) — Tema 3
+- Programa de cribratge (criteris, característiques) — Tema 15
+- Prevenció quaternària (objectiu) — Tema 1
+- Infectivitat (definició) — Tema 5
+- Mesures de control sobre el mecanisme de transmissió (quimioprofilaxi vs. desinsectació) — Tema 5
+- SIVIC (Sistema informació vigilància infeccions Catalunya) — Tema 6
+- Malalties declaració obligatòria: modalitats declaració microbiològica — Tema 6
+- Seguretat alimentària: anàlisi del risc (avaluació, gestió, comunicació) — Tema 12
+- Protecció vs. promoció de la salut (distinció d'intervencions) — Tema 9
+- Gent gran: activitat física recomanada (>65 anys) — Tema 29
+- Plans de salut territorials Catalunya — Tema 8
+- Pla de salut Catalunya 2021-2025: estratègies principals — Tema 8
+- Eficiència (definició) — Tema 11
+- Avaluació de programes de salut (seguiment vs. avaluació de procés) — Tema 11
+- Brots epidèmics: definició, notificació (Decret 203/2015) — Tema 13
+- Brots IRAS (infeccions relacionades assistència sanitària) — Tema 13
+- Prevenció primària: intervencions (vacunes, cribratge, consell) — Tema 1
+- Programa Salut i escola: objectius, tipus d'accions — Tema 36
+- Programes de prevenció malalties cardiovasculars — Tema 41
+- Tuberculosi: taxa incidència 2021 Catalunya (12,5/100.000), malalts antics — Tema 39
+- Malaltia meningocòccica: prevenció, vacunació sistemàtica — Tema 34
+- Higiene bucodental: lactància nocturna i càries — Tema 36
+- Salut ambiental: ozó troposfèric, partícules en suspensió, NOx — Tema 26
+- ITS i VIH Catalunya: via transmissió majoritària VIH, profilaxi preexposició (PrEP) — Tema 37
+- Malalties cròniques: sobrediagnòstic, MPOC, Alzheimer Catalunya — Tema 41/42
+- Càncer: factors de risc (càncer hereditari no és el més habitual) — Tema 42
+- Salut mental: prevalença, determinants, Pla de salut 2021-25 — Tema 33
+- Laboratoris salut ambiental (Decret 43/2012): requisits, titulació responsable — Tema 44
+- Farmacovigilància Catalunya: notificació reaccions adverses — Tema 48
+- Salut comunitària (Llei 18/2009, definició) — Tema 9
+- Desigualtats en salut (Llei 18/2009) — Tema 1
+- Cribratge neonatal: malalties incloses (síndrome de Patau NO inclosa) — Tema 27
+- Salut laboral: trastorns osteomusculars, RMRT — Tema 30
+- Vacunes: DTP vs. triple vírica, VPH en nois i noies, herpes zòster sistemàtica — Tema 31
+
+### SP (Supòsit Pràctic) — 10 preguntes + 2 reserva
+> Nota: el procés 631 també té un supòsit pràctic centrat en un brot de TIA en un restaurant, amb càlculs de RR i identificació de l'agent causal.
+
+Situació coberta:
+- **Situació única** (Brot TIA restaurant La Garriga, juliol 2022): taxa d'atac global, càlcul RR per aliment, corba epidèmica (font comuna), identificació agent causal (Staphylococcus aureus per PI i simptomatologia), tipus d'estudi (cohorts retrospectives), mesures de control — Temes 2, 13, 17, 35
+
+---
+
+## Temes trets en el procés 819 (per no repetir les mateixes preguntes)
+
+> Codi procés 819 — Cos de titulació superior, **promoció interna especial** — 25 de maig de 2024
+
+> ⚠️ **Nota**: El procés 819 és de promoció interna, per la qual cosa pot tenir un nivell de dificultat lleugerament diferent, però els temes del temari coincideixen amb el lliure accés.
+
+### TC (Test de Coneixements) — 50 preguntes + 5 reserva
+Preguntes detectades sobre:
+- Taxa d'incidència / densitat d'incidència (definició: persones-temps) — Tema 2
+- Mesures d'associació vs. mesures de freqüència (prevalença NO és d'associació) — Tema 2
+- Criteris classificació estudis epidemiològics (4 eixos) — Tema 3
+- Tipus d'intervencions preventives (vacunació = primària; mamografia = secundària) — Tema 1
+- Xarxa de Vigilància Epidemiològica (Decret 203/2015): funcions — Tema 6
+- Clúster: definició en investigació de brots — Tema 13
+- Fonts d'informació primàries (articles científics) vs. secundàries — Tema 15
+- Quimioprofilaxi meningocòccica (rifampicina com a fàrmac) — Tema 34
+- Mostres clíniques en TIA (femta com a mostra principal) — Tema 13
+- Accions de control ASPCAT (control aigues de consum humà) — Tema 9
+- RASFF: tipus de notificació d'alerta (risc greu, acció ràpida) — Tema 12
+- Reglament 625/2017 art. 5 (garanties autoritats competents: eficàcia, qualitat, coherència) — Tema 16
+- Control oficial aliments (Reglament 625/2017: àmbit d'aplicació) — Tema 16
+- Biocides (Reglament 528/2012): contingut obligatori etiqueta — Tema 25
+- RD 3/2023 aigua de consum: tipus de controls (art. 13) — Tema 21
+- RD 3/2023 aigua de consum: paràmetres microbiològics anàlisi de control — Tema 21
+- Perills químics aliments: HAPs (torrat, barbacoa), acrilamida, micotoxines, greixos trans — Tema 18
+- Reglament REACH (1907/2006): autorització, FDS, assajos animals — Tema 25
+- RSIPAC: activitats que NO han de comunicar (restaurants al consumidor final) — Tema 43
+- Prestacions de promoció de la salut (empoderament, entorns saludables) — Tema 9/10
+- Pla de salut 2021-2025: àrees prioritàries — Tema 8
+- Envelliment saludable: activitat física recomanada >65 anys — Tema 29
+- Activitat física recomanada adults 18-64 anys (OMS) — Tema 29
+- Guia alimentació primera infància (lactància materna, introducció aliments) — Tema 27
+- Cribratge prenatal: tècnica elecció anomalies cromosòmiques — Tema 27
+- Calendari vacunacions 2023 (novetat: vacuna grip infants 6-15 mesos) — Tema 31
+- ITS causades per virus (condilomes acuminats = VPH) — Tema 37
+- VIH: vies de transmissió (digestiva NO és via) — Tema 37
+- Laboratoris control oficial (Decret 43/2012): obligacions, contractes empreses — Tema 44
+- Publicitat medicaments (prohibicions, prescripció) — Tema 48
+- Estudi de contactes tuberculosi: objectius — Tema 39
+- Mesures cautelars Llei 18/2009 (art. 63): cessament activitat alimentaria — Tema 8
+- Costos sanitaris i avaluació econòmica (cost-efectivitat) — Tema 11
+- Malalties professionals: definició i diferència amb accidents de treball — Tema 30
+- Pla Director de Salut Mental i Addiccions — Tema 33
+- Programa PAFES (Prescripció d'activitat física) — Tema 10
+- Carta d'Ottawa: àrees d'acció per a la promoció de la salut — Tema 10
+- Cribratge de càncer colorectal a Catalunya — Tema 42
+- Productes cosmètics: autorització vs. notificació prèvia — Tema 50
+- Productes sanitaris classe IIb: exemples — Tema 50
+- Reglament 178/2002: traçabilitat (art. 18) — Tema 12
+- Additius alimentaris (Reglament 1333/2008): categories — Tema 14
+- Salmonella: temperatura creixement, reservori — Tema 35
+- Residus sanitaris: classificació grups — Tema 24
+- Legionel·la: instal·lacions de risc, RD 487/2022 — Tema 38
+- Al·lergogens: Reglament 1169/2011 (declaració obligatòria, llindar sulfits) — Tema 18
+- Prevenció cardiovascular: factors de risc modificables — Tema 41
+- Salut mental: trastorns més freqüents, estigma — Tema 33
+
+### SP (Supòsit Pràctic) — format diferent del lliure accés
+> Nota: el procés 819 té un supòsit pràctic sense la divisió en 5 situacions típica del lliure accés. Consta d'un escenari complex únic.
+
+Situació coberta:
+- **Escenari únic** (Col·legi Sant Martí de Cerdanya, febrer 2024): brot gastroenteritis en edifici A i campanyes de vacunació en ambdós edificis. Combina investigació de brot en context escolar (cuina, menjador, alumnat), vacunació sistemàtica, i gestió de contactes — Temes 5, 13, 17, 31, 35
+
+---
+
 ## Patró de dificultat: què s'ha d'estudiar en profunditat
 
 Dels testos reals, s'extreu que les preguntes més freqüents i difícils exigeixen:
@@ -150,3 +344,18 @@ Dels testos reals, s'extreu que les preguntes més freqüents i difícils exigei
 3. **Càlculs epidemiològics**: saber calcular i interpretar RR, RAe, TAe, prevalença, incidència
 4. **Dades epidemiològiques de Catalunya**: informes vigents de l'ASPCAT, estadístiques actualitzades
 5. **Aplicació pràctica en el camp**: decisió davant un brot, una alerta, una inspecció
+
+## Temes amb major freqüència de preguntes (tots els processos)
+
+| Tema | Freqüència relativa | Comentari |
+|------|--------------------|-|
+| Investigació de brots TIA (Tema 13) | ★★★★★ | Present en TOTS els supòsits pràctics |
+| Epidemiologia bàsica: mesures (Tema 2) | ★★★★★ | RR, RA, prevalença, incidència: sempre present |
+| Vigilància epidemiològica (Tema 6) | ★★★★ | Decret 203/2015, MDO, SNMC |
+| Control oficial aliments (Tema 16) | ★★★★ | Reglament 625/2017, SIVAL, RASFF |
+| Vacunació i calendari (Tema 31) | ★★★★ | Novetats, vacunes per grup d'edat |
+| Aigues de consum (Tema 21) | ★★★★ | RD 3/2023, paràmetres, incidències |
+| Programes salut catalans (Temes 27-36) | ★★★★ | Salut i Escola, cribratge neonatal, PReME |
+| Normativa medicaments/cosmètics (Temes 48-50) | ★★★ | Publicitat, autorització, productes sanitaris |
+| ITS i VIH (Tema 37) | ★★★ | Dades epidemiològiques actuals Catalunya |
+| Tuberculosi (Tema 39) | ★★★ | TDO, estudi contactes, IGRA vs tuberculina |
