@@ -85,9 +85,30 @@ Requisits del desenvolupament:
 
    ⚠️ Si no tens informació actualitzada sobre novetats recents per a aquest tema, indica-ho explícitament i suggereix on buscar-les (p. ex., secció de "Publicacions" de salutpublica.gencat.cat o la web del Departament de Salut).
 
-6. **Paraules clau** al final: llista de 10-15 termes tècnics fonamentals del tema.
+6. **Paraules clau**: llista de 10-15 termes tècnics fonamentals del tema, seleccionats per ser els més rellevants en un context d'oposició. Inclou acrònims i sigles quan s'usin habitualment (p. ex., XVEC, PPAC, BEC).
 
-7. **Possible pregunta de test** (1 exemple): una pregunta d'opció múltiple (4 opcions) representativa del tema, amb resposta correcta indicada i breu justificació. Prioritza preguntes sobre normativa o programes específics de Catalunya, i sempre que sigui possible basada en una novetat o publicació recent de les identificades a la secció anterior.
+7. **Preguntes de test** (4 propostes): quatre preguntes d'opció múltiple (4 opcions cadascuna, 1 correcta) representatives del tema, amb resposta correcta indicada i breu justificació de per què és correcta i per què les altres opcions són incorrectes.
+
+   **Diversifica les 4 preguntes** cobrint aspectes diferents del tema:
+   - **Pregunta 1**: sobre conceptes o definicions fonamentals del tema.
+   - **Pregunta 2**: sobre normativa o marc legal (preferentment normativa catalana, DOGC).
+   - **Pregunta 3**: sobre un programa, protocol o guia específica de la Generalitat de Catalunya.
+   - **Pregunta 4**: basada en una novetat o publicació recent identificada a la secció «Novetats i publicacions recents».
+
+   Format per a cada pregunta:
+   ```
+   **Pregunta [N] — [Categoria: Concepte / Normativa / Programa / Novetat]**
+
+   [Enunciat de la pregunta]
+
+   a) [Opció A]
+   b) [Opció B]
+   c) [Opció C]
+   d) [Opció D]
+
+   **Resposta correcta: [lletra])**
+   *Justificació*: [Explica per què és correcta i descarta breument les altres opcions. Cita la font oficial.]
+   ```
 
 Format: Markdown estructurat amb titulars ##, ###, llistes i taules.
 Llengua: Català.
